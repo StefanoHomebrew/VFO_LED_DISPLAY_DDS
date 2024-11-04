@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    VFO_LED_DISPLAY_BFO_1_DDS-1
+  * @file    VFO_LED_DISPLAY_DDS-1
   * @author  Stefano Homebrew
   * @version V1.0
   * @date    02-11-2024
@@ -8,9 +8,9 @@
   *
   ******************************************************************************
   *
-  *                     VFO_LED_DISPLAY_BFO_1_DDS-1 - PROJECT
+  *                     VFO_LED_DISPLAY_DDS-1 - PROJECT
   *
-  * This project "VFO_LED_DISPLAY_BFO_1_DDS-1 with DDS AD9850", define an experimental open platform to build
+  * This project "VFO_LED_DISPLAY_DDS-1 with DDS AD9850", define an experimental open platform to build
   * a RX Vfo for Radio's Homebrewing 
   * 
   * BUTTONS:
@@ -29,10 +29,10 @@
   *
   * NOTE: this is an experimental project and the functions can be changed
   * without any advise.
-  * The VFO_LED_DISPLAY_BFO_1_DDS-1 uses examples and projects freeware and available in the opensource
+  * The VFO_LED_DISPLAY_DDS-1 uses examples and projects freeware and available in the opensource
   * community.
   *
-  * The VFO_LED_DISPLAY_BFO_1_DDS-1 openSource software is released under the license:
+  * The VFO_LED_DISPLAY_DDS-1 openSource software is released under the license:
   *              Common Creative - Attribution 3.0
   ******************************************************************************
 */
